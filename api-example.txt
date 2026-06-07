@@ -1,0 +1,5 @@
+# API 인증을 위한 REST API 키 (안내 가이드)
+VITE_SUBWAY_API_KEY = 본인의_지하철_정보_API_인증키
+VITE_BIKE_API_KEY= 본인의_따릉이_정보_API_인증키
+
+
