@@ -1,0 +1,133 @@
+.bike-label {
+  display: block;
+
+  color: #0f766e;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  letter-spacing: 1px;
+
+  margin-bottom: 4px;
+}
+
+.bike-header {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: flex-start;
+
+  margin-bottom: 20px;
+}
+
+.bike-title {
+  font-size: 24px;
+
+  font-weight: 800;
+
+  color: #111827;
+
+  margin: 0;
+}
+
+.bike-icon {
+  font-size: 32px;
+
+  opacity: 0.8;
+
+  margin-top: 6px;
+}
+
+.bike-rank {
+  width: 28px;
+
+  height: 28px;
+
+  border-radius: 50%;
+
+  background: #ff7a00;
+
+  color: white;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+}
+
+.bike-card {
+  background: white;
+
+  border: 1px solid #e5e7eb;
+
+  border-radius: 14px;
+
+  padding: 16px;
+
+  margin-bottom: 14px;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.05);
+}
+
+.bike-card-top {
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+
+  margin-bottom: 15px;
+}
+
+
+.bike-progress {
+  height: 10px;
+
+  background: #e5e7eb;
+
+  border-radius: 999px;
+
+  overflow: hidden;
+
+  margin-bottom: 15px;
+}
+
+.bike-progress-fill {
+  height: 100%;
+
+  background: linear-gradient(
+    90deg,
+    #10b981,
+    #eab308
+  );
+}
+
+.bike-bottom {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.bike-count {
+  color: #0f766e;
+
+  font-size: 24px;
+
+  font-weight: 700;
+}
+
+.bike-distance {
+  color: #6b7280;
+
+  font-weight: 500;
+}

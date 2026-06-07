@@ -1,0 +1,66 @@
+.bus-card {
+  padding: 16px;
+
+  margin-bottom: 14px;
+
+  border: 1px solid #dfe6e9;
+
+  border-radius: 14px;
+
+  background: white;
+
+  transition: 0.2s;
+}
+
+.bus-card:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 4px 12px
+    rgba(0, 0, 0, 0.08);
+}
+
+.bus-top {
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+
+  margin-bottom: 8px;
+}
+
+.bus-type {
+  padding: 4px 10px;
+
+  border-radius: 999px;
+
+  color: white;
+
+  font-size: 12px;
+
+  font-weight: 700;
+}
+
+.bus-info h4 {
+  font-size: 24px;
+
+  font-weight: 700;
+
+  color: #1e293b;
+
+  margin: 0;
+}
+
+.bus-info p {
+  color: #64748b;
+
+  margin: 4px 0 8px;
+}
+
+.bus-info strong {
+  font-size: 18px;
+
+  color: #0f766e;
+
+  font-weight: 700;
+}
