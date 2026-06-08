@@ -101,15 +101,6 @@ src
 
 ---
 
-## ⚙ 실행 방법
-
-```bash
-npm install
-npm run dev
-```
-
----
-
 ## 💡 개발 과정에서 배운 점
 
 * React 컴포넌트 기반 설계 경험
