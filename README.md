@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="./src/assets/logo.png" width="180"/>
-</h1>
 
-<h1 align="center">🚇 바로 타 (BaroTa)</h1>
-
+🚇 바로 타 (BaroTa)</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
