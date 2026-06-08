@@ -1,16 +1,16 @@
-# React + Vite
+<p align="center">
+  <img src="./logo.png" alt="바로 타 로고" width="180"/>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🚇 바로 타 (BaroTa)</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  지하철, 버스, 따릉이 정보를 한 번에 확인할 수 있는 통합 대중교통 서비스
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KakaoMap-FFCD00?logo=kakao&logoColor=black"/>
+</p>
