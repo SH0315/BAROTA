@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="바로 타 로고" width="180"/>
+ <img src="./src/assets/logo.png" width="180">
 </p>
 
 <h1 align="center">🚇 바로 타 (BaroTa)</h1>
